@@ -1,0 +1,33 @@
+{
+    "debug.console.fontFamily": "Fira Code",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "editor.rulers": [
+        120
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.formatting.provider": "black",
+    "python.linting.banditEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C://Users/Maxime/AppData/Local/Programs/Python/Python310/",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.pytestEnabled": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.editor": "json",
+}

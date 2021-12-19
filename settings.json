@@ -11,6 +11,10 @@
     ],
     "python.analysis.typeCheckingMode": "basic",
     "python.formatting.provider": "black",
+    "python.linting.banditArgs": [
+        "-s",
+        "B101",
+    ],
     "python.linting.banditEnabled": true,
     "python.linting.enabled": true,
     "python.linting.flake8Args": [
@@ -30,4 +34,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.editor": "json",
+    "workbench.startupEditor": "none",
+    "explorer.confirmDragAndDrop": false,
 }
